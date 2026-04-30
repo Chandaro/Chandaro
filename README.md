@@ -1,121 +1,107 @@
 <div align="center">
 
-# Hey, I'm Hen Chandaro 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=200&section=header&text=Hen%20Chandaro&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-**AI & Backend Developer · Full Scholarship @ AUPP · Cambodia 🇰🇭**
+</div>
 
-*Techo Digital Talent Scholar — building things at the intersection of AI, data, and real-world impact.*
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandaro-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://share.google/4Hus2ppDKKxi4xYlL)
-[![GitHub](https://img.shields.io/badge/GitHub-Chandaro-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chandaro)
-[![Email](https://img.shields.io/badge/Email-chandaro9.7rise%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chandaro9.7rise@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Full+Scholarship+%40+American+University+of+Phnom+Penh;Building+AI+tools+that+anyone+can+use;Backend+%7C+Computer+Vision+%7C+NLP;Techo+Digital+Talent+Scholar+%F0%9F%87%B0%F0%9F%87%AD)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandaro-hen-28a36b326)
+[![Email](https://img.shields.io/badge/Email-chandaro9.7rise%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandaro9.7rise@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Chandaro&style=for-the-badge&color=5865f2&label=Profile+Views)](https://github.com/Chandaro)
 
 </div>
 
 ---
 
-## About Me
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkbWlvNXZiZHVpNGJzejBhNnBncWkwbmN5dXpleHZiMmU1NnZkaiZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```python
-chandaro = {
-    "focus"      : ["AI / ML", "Backend Development", "Data"],
-    "university" : "American University of Phnom Penh (AUPP)",
-    "scholarship": "Techo Digital Talent Scholarship (Full)",
-    "currently"  : "Senior — ICT Bachelor",
-    "interests"  : ["Computer Vision", "NLP", "Data Analysis", "System Design"],
-    "belief"     : "Data is the foundation of everything — the puzzle that reveals answers.",
-}
-```
+### About Me
 
-I love learning and finding ways to apply technology to real-world problems. Especially passionate about **AI** and **data** — from training models to cleaning datasets and building the systems around them.
+I'm a **full scholarship student** at the American University of Phnom Penh under the **Techo Digital Talent Scholarship**, studying Information Communication and Technology.
+
+I'm passionate about **AI** and **data** — believing that data is the foundation of everything, from machine learning to business and beyond. I love building tools that make complex technology accessible to everyone.
+
+- 🔭 Currently building **[NoCode CV Trainer](https://github.com/Chandaro/NoCode-Computer-Vision)** — train vision models without code
+- 🌱 Deepening expertise in **Computer Vision** and **AI Systems**
+- 💡 Interested in **NLP**, **Backend Architecture**, and **Data Engineering**
+- 🤝 Open to **internships**, **collaborations**, and **real-world projects**
+- 🥉 **3rd Place** — DGF Verify & Go Products Video Competition
+
+<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Backend**
+<br/>
 
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 **AI / ML & Data**
+<br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00b4d8?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Frontend**
+</td>
+<td valign="top" width="33%">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+**Frontend & Tools**
+<br/>
+
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-
-**Auth & Integrations**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285f4?style=flat-square&logo=google&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26a5e4?style=flat-square&logo=telegram&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets_API-34a853?style=flat-square&logo=google-sheets&logoColor=white)
-
-**Tools & Cloud**
-
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [NoCode CV Trainer](https://github.com/Chandaro/NoCode-Computer-Vision)
-> Train computer vision models — no code required.
+<a href="https://github.com/Chandaro/NoCode-Computer-Vision">
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandaro&repo=NoCode-Computer-Vision&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2" />
+</a>
 
-A full-stack desktop application that lets anyone annotate images, design custom CNN architectures in an interactive 3D visualiser, train YOLOv8 object detection & classification models, and export datasets — all without writing code.
+<a href="https://github.com/Chandaro/Handwritten-Character-Recognition">
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandaro&repo=Handwritten-Character-Recognition&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2" />
+</a>
 
-`FastAPI` `PyTorch` `YOLOv8` `React` `TypeScript` `Three.js` `SQLite`
+<br clear="both"/><br/>
 
----
+<a href="https://github.com/Chandaro/DashSchedulePrivate">
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandaro&repo=DashSchedulePrivate&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2" />
+</a>
 
-### 📅 Scheduling System
-> Multi-role backend system built with Django.
+<a href="https://github.com/Chandaro/Acne-type-classification">
+  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandaro&repo=Acne-type-classification&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2" />
+</a>
 
-Role-based access (admin / staff / user), secure JWT authentication, and clean REST API design for managing schedules and users. Focused on maintainable architecture and separation of concerns.
-
-`Django` `Django REST Framework` `JWT` `SQLite`
-
----
-
-### 🤖 Telegram Bot × Django
-> Real-time message forwarding system.
-
-Integrated a Telegram Bot with a Django backend using webhook/polling. Messages from the system are forwarded to Telegram users in real time, with full storage in the database.
-
-`Django` `Telegram Bot API` `Webhooks` `Python`
-
----
-
-### 🔐 Auth System — Next.js × Django
-> Full-stack authentication with Google OAuth & role-based access.
-
-Next.js frontend with Django backend. Google OAuth login, Google Sheets data integration, and role-based access control across the entire application.
-
-`Next.js` `Django` `Google OAuth` `Google Sheets API`
-
----
-
-### 🇰🇭 Khmer Article Classifier — NLP & ML
-> Text classification for Khmer-language news articles.
-
-Trained a classification model using NLP techniques on Khmer script. Applied text preprocessing, machine learning algorithms, and evaluated model performance across multiple news categories.
-
-`Python` `NLP` `scikit-learn` `Text Classification`
+<br clear="both"/>
 
 ---
 
@@ -123,21 +109,14 @@ Trained a classification model using NLP techniques on Khmer script. Applied tex
 
 <div align="center">
 
-![Chandaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chandaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandaro&theme=tokyonight&hide_border=true&background=0d0d0f&ring=5865f2&fire=5865f2&currStreakLabel=5865f2" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandaro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&text_color=e2e2e2)
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chandaro&theme=tokyo-night&bg_color=0d0d0f&color=5865f2&line=5865f2&point=ffffff&hide_border=true" />
 
 </div>
-
----
-
-## 🏆 Highlights
-
-- 🎓 **Full Scholarship** — Techo Digital Talent Scholarship at AUPP
-- 🥉 **3rd Place** — DGF Verify & Go Products Video Competition
-- 💼 **2 Years** — Support Intern at RSA (ERA)
-- 🏛 Supported **national-level examination** coordination activities
-- 🌱 Always learning — currently diving deeper into **computer vision** and **AI systems**
 
 ---
 
@@ -145,8 +124,14 @@ Trained a classification model using NLP techniques on Khmer script. Applied tex
 
 *"Data is like a puzzle — when you put the pieces together, you can find meaningful answers."*
 
-**Open to internships, collaborations, and real-world projects.**
+<br/>
 
-[![Email](https://img.shields.io/badge/Get%20in%20touch-chandaro9.7rise%40gmail.com-5865f2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandaro9.7rise@gmail.com)
+**💼 Open to internships, collaborations & real-world projects**
+
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-5865f2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandaro9.7rise@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=100&section=footer" width="100%"/>
 
 </div>
