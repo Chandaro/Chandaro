@@ -10,6 +10,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-chandaro.github.io-5865f2?style=for-the-badge&logo=vercel&logoColor=white)](https://chandaro.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandaro-hen-28a36b326)
 [![Email](https://img.shields.io/badge/Email-chandaro9.7rise%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandaro9.7rise@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Chandaro&style=for-the-badge&color=5865f2&label=Profile+Views)](https://github.com/Chandaro)
@@ -128,7 +129,8 @@ I'm passionate about **AI** and **data** — believing that data is the foundati
 
 **💼 Open to internships, collaborations & real-world projects**
 
-[![Email](https://img.shields.io/badge/Get%20In%20Touch-5865f2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandaro9.7rise@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-5865f2?style=for-the-badge&logo=vercel&logoColor=white)](https://chandaro.github.io)
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandaro9.7rise@gmail.com)
 
 <br/>
 
