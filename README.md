@@ -1,139 +1,214 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=200&section=header&text=Hen%20Chandaro&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Hen Chandaro
 
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=220&section=header&text=Hen%20Chandaro&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20|%20Backend%20|%20Computer%20Vision&descAlignY=58"/>
+</p>
 
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=700&lines=Full+Scholarship+Student+%40+AUPP;Techo+Digital+Talent+Scholar;Building+AI+tools+that+anyone+can+use;Computer+Vision+%7C+Backend+%7C+NLP;Always+Learning+Something+New"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Full+Scholarship+%40+American+University+of+Phnom+Penh;Building+AI+tools+that+anyone+can+use;Backend+%7C+Computer+Vision+%7C+NLP;Techo+Digital+Talent+Scholar+%F0%9F%87%B0%F0%9F%87%AD)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-chandaro.github.io-5865f2?style=for-the-badge&logo=vercel&logoColor=white)](https://chandaro.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandaro-hen-28a36b326)
-[![Email](https://img.shields.io/badge/Email-chandaro9.7rise%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandaro9.7rise@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Chandaro&style=for-the-badge&color=5865f2&label=Profile+Views)](https://github.com/Chandaro)
-
-</div>
+<p align="center">
+<a href="#about">About</a> •
+<a href="#achievements">Achievements</a> •
+<a href="#tech-stack">Tech Stack</a> •
+<a href="#projects">Projects</a> •
+<a href="#focus">Current Focus</a> •
+<a href="#stats">Stats</a> •
+<a href="#timeline">Timeline</a> •
+<a href="#contact">Contact</a>
+</p>
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkbWlvNXZiZHVpNGJzejBhNnBncWkwbmN5dXpleHZiMmU1NnZkaiZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+## About
 
-### About Me
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkbWlvNXZiZHVpNGJzejBhNnBncWkwbmN5dXpleHZiMmU1NnZkaiZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm a **full scholarship student** at the American University of Phnom Penh under the **Techo Digital Talent Scholarship**, studying Information Communication and Technology.
+I'm **Hen Chandaro**, an ICT student at the **American University of Phnom Penh**.
 
-I'm passionate about **AI** and **data** — believing that data is the foundation of everything, from machine learning to business and beyond. I love building tools that make complex technology accessible to everyone.
-
-- 🔭 Currently building **[NoCode CV Trainer](https://github.com/Chandaro/NoCode-Computer-Vision)** — train vision models without code
-- 🌱 Deepening expertise in **Computer Vision** and **AI Systems**
-- 💡 Interested in **NLP**, **Backend Architecture**, and **Data Engineering**
-- 🤝 Open to **internships**, **collaborations**, and **real-world projects**
-- 🥉 **3rd Place** — DGF Verify & Go Products Video Competition
+- 🎓 Full Scholarship Student
+- 🇰🇭 Techo Digital Talent Scholar
+- 🤖 Passionate about AI & Computer Vision
+- ⚙ Backend Developer
+- 📊 Data Enthusiast
+- 🌱 Building practical AI applications
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Achievements
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Backend**
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**AI / ML & Data**
-<br/>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00b4d8?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/sklearn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend & Tools**
-<br/>
-
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=white)
-
-</td>
-</tr>
-</table>
+| 🏆 | Achievement |
+|---|---|
+| 🎓 | Full Scholarship @ AUPP |
+| 🇰🇭 | Techo Digital Talent Scholar |
+| 🥉 | 3rd Place - DGF Verify & Go Competition |
+| 🤖 | Open Source AI Projects |
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-<a href="https://github.com/Chandaro/NoCode-Computer-Vision">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandaro&repo=NoCode-Computer-Vision&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2" />
-</a>
+### AI
 
-<a href="https://github.com/Chandaro/Handwritten-Character-Recognition">
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandaro&repo=Handwritten-Character-Recognition&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2" />
-</a>
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch)
+![YOLO](https://img.shields.io/badge/YOLOv8-00b4d8?style=for-the-badge)
 
-<br clear="both"/><br/>
+### Backend
 
-<a href="https://github.com/Chandaro/DashSchedulePrivate">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandaro&repo=DashSchedulePrivate&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2" />
-</a>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel)
+![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django)
 
-<a href="https://github.com/Chandaro/Acne-type-classification">
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandaro&repo=Acne-type-classification&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2" />
-</a>
+### Frontend
 
-<br clear="both"/>
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chandaro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0f&title_color=5865f2&icon_color=5865f2&text_color=e2e2e2&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandaro&theme=tokyonight&hide_border=true&background=0d0d0f&ring=5865f2&fire=5865f2&currStreakLabel=5865f2" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chandaro&theme=tokyo-night&bg_color=0d0d0f&color=5865f2&line=5865f2&point=ffffff&hide_border=true" />
-
-</div>
+| Project | Description |
+|---------|-------------|
+| 🚀 NoCode Computer Vision | Train vision models without code |
+| ✍ Handwritten Character Recognition | Deep learning OCR |
+| 📅 DashSchedule | Student productivity platform |
+| 🧴 Acne Classification | CNN image classification |
 
 ---
 
-<div align="center">
+## Current Focus
 
-*"Data is like a puzzle — when you put the pieces together, you can find meaningful answers."*
+```text
+🧠 NoCode CV Trainer         ████████████████████ 90%
+🤖 Local LLM                 ████████████████░░░ 75%
+☁ Cloud GPU Deployment       ██████████░░░░░░░░ 50%
+⚙ Backend Architecture       █████████████████░ 85%
+📊 Data Engineering          █████████████░░░░░ 70%
+```
 
-<br/>
+---
 
-**💼 Open to internships, collaborations & real-world projects**
+## Learning Roadmap
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-5865f2?style=for-the-badge&logo=vercel&logoColor=white)](https://chandaro.github.io)
-[![Email](https://img.shields.io/badge/Get%20In%20Touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandaro9.7rise@gmail.com)
+```text
+Computer Vision     ████████████████████
+Backend             ██████████████████
+Deep Learning       ████████████████
+LLM Engineering     ████████████
+MLOps               █████████
+Kubernetes          ██████
+```
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=100&section=footer" width="100%"/>
+## Timeline
 
-</div>
+```text
+2023 🎓 Started ICT @ AUPP
+
+⬇
+
+2024 🤖 Computer Vision
+     ⚙ Backend Development
+
+⬇
+
+2025 🚀 Open Source AI Projects
+     📊 AI Research
+
+⬇
+
+2026 ☁ Cloud AI
+     🧠 LLM Engineering
+
+⬇
+
+Future 🌍 AI Engineer
+```
+
+---
+
+## Terminal
+
+```bash
+$ whoami
+Hen Chandaro
+
+$ interests
+Computer Vision
+Backend
+Artificial Intelligence
+Open Source
+
+$ currently
+Building NoCode Computer Vision Trainer
+
+$ mission
+Build AI products everyone can use.
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chandaro&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandaro&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandaro&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Chandaro&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## Fun Facts
+
+- 💡 I enjoy simplifying complex AI.
+- 🧩 Data is the foundation of intelligent systems.
+- 🎮 I sometimes build games to learn physics.
+- ☕ Debugging starts with `print()`.
+
+---
+
+## Quote
+
+> "Data is like a puzzle — when you put the pieces together, you can find meaningful answers."
+
+---
+
+## Contact
+
+<p align="center">
+
+[Portfolio](https://chandaro.github.io) •
+[LinkedIn](https://www.linkedin.com/in/chandaro-hen-28a36b326) •
+Email: chandaro9.7rise@gmail.com
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=120&section=footer"/>
+</p>
