@@ -21,7 +21,7 @@
 
 <img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkbWlvNXZiZHVpNGJzejBhNnBncWkwbmN5dXpleHZiMmU1NnZkaiZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### About Mេ
+### About M
 
 I'm a **full scholarship student** at the American University of Phnom Penh under the **Techo Digital Talent Scholarship**, studying Information Communication and Technology.
 
