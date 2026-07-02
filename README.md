@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+<div align="center"
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=5865F2&center=true&vCenter=true&width=600&lines=Full+Scholarship+%40+American+University+of+Phnom+Penh;Building+AI+tools+that+anyone+can+use;Backend+%7C+Computer+Vision+%7C+NLP;Techo+Digital+Talent+Scholar+%F0%9F%87%B0%F0%9F%87%AD)](https://git.io/typing-svg)
 
