@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5865f2&height=200&section=header&text=Hen%20Chandaro&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-</div>
+</div>1
 
 <div align="center">
 
